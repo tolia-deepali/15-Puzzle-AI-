@@ -3,7 +3,7 @@
 #
 # Code by: [Kaustubh Bhalerao(kbhaler), Suyash Poredi(sporedi), Dipali Tolia(dtolia)]
 #
-# Based on skeleton code by D. Crandall, September 2019
+#
 #
 from queue import PriorityQueue
 import queue as Q
